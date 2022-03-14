@@ -1,10 +1,11 @@
 import React from 'react'
 import dndApi from '../dndApi/dndApi'
 import Select from 'react-select'
+import './App.css';
 
 
 
-class Project extends React.Component {
+class projects extends React.Component {
   state = {
 
     options : [],
@@ -90,7 +91,7 @@ class Project extends React.Component {
 
 } 
 
-export default Project
+export default projects
 
 
 
