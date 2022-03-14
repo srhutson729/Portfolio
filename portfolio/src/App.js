@@ -8,7 +8,6 @@ import Projects from './components/Projects';
 import Resume from './components/Resume';
 
 import 'bootstrap/dist/css/bootstrap.min.css'
-import './site.css'
 import './components/App.css'
 import '../node_modules/animate.css/animate.min.css'
 

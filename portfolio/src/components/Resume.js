@@ -1,5 +1,6 @@
 import React from 'react';
 import { Document, Page } from 'react-pdf';
+import './App.css';
 
 import resume from '../pdf/resume.pdf';
 

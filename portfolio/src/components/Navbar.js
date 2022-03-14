@@ -10,9 +10,7 @@ function NavBar() {
  
     const handleClick = () => setClick(!click);
     const closeMobileMenu = () => setClick(false);
-    const [open, setOpen] = useState(false);
-       
-   
+         
    
  return (
   <>
